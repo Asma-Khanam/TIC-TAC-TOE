@@ -4,7 +4,7 @@ I developed this game using HTML, CSS &amp; JAVASCRIPT. You can access this game
 This is a simple implementation of the classic Tic-Tac-Toe game using HTML, CSS, and JavaScript.
 
 HOW TO PLAY:
-To play the game, simply open the index.html file in your browser. The game will load and you will see a 3x3 grid with empty squares. Players take turns selecting a square to place their X or O mark. The first player to get three in a row (horizontally, vertically, or diagonally) wins the game.
+To play the game, simply open the link in your browser. The game will load and you will see a 3x3 grid with empty squares. Players take turns selecting a square to place their X or O mark. The first player to get three in a row (horizontally, vertically, or diagonally) wins the game.
 
 FEATURES:
 The game board is responsive and adjusts to fit the screen size.
